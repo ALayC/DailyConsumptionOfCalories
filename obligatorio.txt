@@ -1,0 +1,19 @@
+{
+    "usuario": "alay",
+    "password":"alay",
+    "idPais": 235,
+    "caloriasDiarias": 2000
+}
+npx kill-port 3000
+jalzu jalzu
+///
+
+
+
+ la fehca en el form tiene que ser de hoy hacia atras- HECHO
+ boton hacia login desde el form de registro- HECHO
+ 
+ cuando no obtiene la apikey mostrar el mensaje de error
+  dias restantes: se tiene que recargar cada segundo
+
+ jueves 19 10
